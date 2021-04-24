@@ -1,0 +1,36 @@
+body{font-family:Arial, Helvetica, sans-serif;
+    padding: 45px;
+}
+.card{
+    display: flex;
+    flex-direction:column;
+ background-color: red;
+ width: 300px;
+ padding: 10px;
+ border-radius: 10px;
+}
+
+.position{background-color: white;
+font-size: 30px;
+border-radius: 10px;
+text-align: center;
+
+
+}
+.name{background-color: white;
+    margin-top: 0px;
+    display: flex;
+    padding: 5px;
+    border-radius: 10px;
+  
+}
+.element{ 
+    
+    display: flex;
+    flex-direction: column;
+}
+.elementBody{ margin-top: 0px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
